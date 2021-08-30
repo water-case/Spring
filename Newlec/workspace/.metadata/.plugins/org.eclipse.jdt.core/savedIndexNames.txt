@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+E:\GitStorage\Spring\Newlec\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1806779071.index
+2171421941.index
+2356586356.index
+2937616793.index
+504541907.index
+3485069677.index
+292393890.index
